@@ -6,3 +6,4 @@ kelvin = grad + 273.15
 print(f"{grad}° Celcius son {fah}° Fahrenheit y {kelvin}° Kelvin")
 
 #ya quedo?
+#simón
