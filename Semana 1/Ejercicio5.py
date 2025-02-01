@@ -1,4 +1,4 @@
-print("Ejercicio 2: ¿Cuál es el precio con tu descuento?")
+print("Ejercicio 5: ¿Cuál es el precio con tu descuento?")
 precio = float(input("Ingresa el precio del producto: "))
 desc = float(input("Ingresa el porcentaje descuento (sin el símbolo): "))
 
