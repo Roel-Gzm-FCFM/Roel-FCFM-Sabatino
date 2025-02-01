@@ -4,3 +4,5 @@ fah = (1.8*grad) + 32
 kelvin = grad + 273.15
 
 print(f"{grad}° Celcius son {fah}° Fahrenheit y {kelvin}° Kelvin")
+
+#ya quedo?
