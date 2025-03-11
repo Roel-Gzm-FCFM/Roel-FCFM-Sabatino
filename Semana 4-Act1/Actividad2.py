@@ -6,7 +6,7 @@ def invertir_palabras():
     for palabra in palabras:
         nueva_palabra = ""
         for letra in palabra:
-            nueva_palabra = letra + nueva_palabra  # Invierte la palabra
+            nueva_palabra = letra + nueva_palabra
         nueva_frase.append(nueva_palabra)
     
     resultado = ""
